@@ -1,5 +1,5 @@
 
-import SimpleLightbox from "simplelightbox";
+import SimpleLightbox from "./simplelightbox";
 // Importación adicional de estilos
 import "simplelightbox/dist/simple-lightbox.min.css";
 // Add imports above this line
